@@ -1,5 +1,7 @@
 # Blender API
 
+[**WEB**](https://tomashubelbauer.github.io/blender-api)
+
 Interesting methods from the Blender API I figured to make a note of.
 
 ## Context Access (`bpy.context`)
@@ -49,3 +51,9 @@ Could be used for the light box.
 ### Demo select API methods practically in auxiliary repos
 
 ### Go through all the types in the Types section and learn what they do
+
+### Scrape the API docs automatically and cross-reference with my content
+
+All API bits would have their own readme section automatically generated
+and I would just fill in bits to the sections I played around with and
+found something I wanted to capture.
